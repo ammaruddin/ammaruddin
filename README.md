@@ -4,7 +4,7 @@ Welcome to my GitHub! 🚀
 ---
 
 ### 👨‍💻 **About Me**
-I am a **Master’s student in Cybersecurity** at the University of North Texas, graduating in **December 2024**. My journey in technology combines a solid academic foundation and hands-on experience in **cybersecurity**, **networking**, and **software development**. I am passionate about leveraging my technical skills to contribute to secure and innovative digital infrastructures.  
+I am a **Master’s student in Cybersecurity** at the University of North Texas. My journey in technology combines a solid academic foundation and hands-on experience in **cybersecurity**, **networking**, and **software development**. I am passionate about leveraging my technical skills to contribute to secure and innovative digital infrastructures.  
 
 ---
 
@@ -38,6 +38,5 @@ I am a **Master’s student in Cybersecurity** at the University of North Texas,
 ---
 
 ### 📫 **Let’s Connect**
-- **LinkedIn**: [Ammaruddin](https://www.linkedin.com/in/ammaruddin)  
-- **GitHub**: [Ammaruddin](https://github.com/yourusername)  
-- **Email**: your.email@example.com  
+- **LinkedIn**: [Ammaruddin](https://www.linkedin.com/in/mohammed-ammaruddin-18250b191/)  
+- **GitHub**: [Ammaruddin](https://github.com/ammaruddin)   
