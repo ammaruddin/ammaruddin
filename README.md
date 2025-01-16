@@ -11,7 +11,7 @@ I am a **Master’s student in Cybersecurity** at the University of North Texas.
 ### 🛠 **Technical Expertise**
 - **Programming Languages**: Java, HTML, CSS, JavaScript, SQL  
 - **Cybersecurity & Networking**: CCNA Certified, Kali Linux, Vulnerability Management, IDS/IPS, Firewalls  
-- **Cloud Platforms**: AWS, Azure  
+- **Cloud Platforms**: AWS Certified, Azure  
 - **Databases**: MySQL, PostgreSQL, Microsoft SQL Server  
 - **Tools & Platforms**: Oracle VirtualBox, Autopsy, Burp Suite  
 
